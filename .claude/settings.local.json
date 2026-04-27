@@ -5,7 +5,8 @@
       "Bash(curl -v --max-time 15 https://github.com)",
       "Bash(git config *)",
       "Bash(git push *)",
-      "Bash(cmdkey /list)"
+      "Bash(cmdkey /list)",
+      "Bash(node -e ' *)"
     ]
   }
 }
